@@ -1,4 +1,5 @@
-### Hi there 👋
+Data Scientist with a M.S in Meteorology, valuable experience as a Systems Test Engineer, and pursuing a Data Analytics certificate from the University of Arizona. Adept learner of the underlying problem/technology that the dataset being analyzed is built upon by balancing independent exploration of accessible documentation/resources and reaching out to subject matter experts to expedite learning.  Leveraged this skill to develop and build a suite of Matlab tools to analyze the results from a 10k run Monte Carlo simulation incorporating physics transformations, statistical assessment of simulation probability distributions and plotting of results for technical  presentations to program leaders and customers. Freely communicates knowledge with the team to improve deliverable products and provide mentorship to team members.  Interested in utilizing problem-solving and technical skills to provide data-driven results that assist in making project/business decisions. 
+
 
 <!--
 **NicoleLund/NicoleLund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
